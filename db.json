@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "Wzen",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "date": "2022-02-15T17:00:00.000Z",
+      "price": 22000,
+      "comment": "mua Mua ",
+      "id": 1
+    },
+    {
+      "productName": "Jen",
+      "category": "Electronis",
+      "freshness": "Refurbished",
+      "date": "2022-02-11T17:00:00.000Z",
+      "price": 321231,
+      "comment": "ggggg",
+      "id": 3
+    },
+    {
+      "productName": "KEN",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "date": "2022-02-18T17:00:00.000Z",
+      "price": 300000,
+      "comment": "kakkaa",
+      "id": 4
+    },
+    {
+      "productName": "Moinh",
+      "category": "vegetables",
+      "freshness": "Second Hand",
+      "date": "2022-02-19T17:00:00.000Z",
+      "price": 60000,
+      "comment": "nnhnhh",
+      "id": 5
+    },
+    {
+      "productName": "Lan",
+      "category": "Electronis",
+      "freshness": "Brand New",
+      "date": "2022-02-18T17:00:00.000Z",
+      "price": 50000,
+      "comment": "sdgsd",
+      "id": 6
+    },
+    {
+      "productName": "oan",
+      "category": "vegetables",
+      "freshness": "Brand New",
+      "date": "2022-02-18T17:00:00.000Z",
+      "price": 312000,
+      "comment": "jaanaaj",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
